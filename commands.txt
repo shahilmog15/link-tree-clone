@@ -1,0 +1,12 @@
+git config --global user.name "shahil"
+git config --global user.email "shahilmog@gmail.com"
+touch .gitignore
+git init
+git add .
+git commit -m "initial commit"
+git status
+git remove add origin past ssh paste
+ssh-keygen -t rsa -b 4096 -C "shahilmog@gmail.com"
+cat paste the key
+paste the url
+git push origin master
